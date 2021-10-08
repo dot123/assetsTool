@@ -1,0 +1,1 @@
+assetsTool.exe -oldProject ./project.manifest -newProject ./assets/project.manifest  -resPath ./assets/
